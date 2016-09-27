@@ -1,9 +1,6 @@
 FactoryGirl.define do
   factory :task do
-    title "Do laundry"
+    title "Do the dishes"
     done false
-    title "Make bed"
-    done false
-   end
   end
 end
